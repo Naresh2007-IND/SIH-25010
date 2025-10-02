@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:2.10.2025
+## Register Number:25018070
+## Name:NARESH J
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,28 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+We propose a smart, AI-driven mobile application that delivers personalized crop advisory services in regional languages. The app will integrate soil data, weather forecasts, and crop history to recommend optimal farming practices. It will include image-based pest detection, voice support, and market price updates. The solution is designed to be intuitive and accessible for farmers with low digital literacy.
 
-## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
-
+Technical Approach
+- Technologies: Python, TensorFlow, Android Studio, Firebase, OpenCV
+- AI models for pest detection and crop recommendation
+- Integration with weather APIs and soil databases
+- Multilingual NLP for chatbot and voice interface
+- User-friendly UI/UX design tailored for rural users
+- Prototype includes flowcharts, mock screens, and a working demo
+- 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
-
+- Feasible with current mobile penetration and government support
+- Challenges: data accuracy, user adoption, connectivity in remote areas
+- Mitigation: offline features, community training, partnerships with local NGOs
+- Scalable across regions with modular language and crop databases
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
-
+- Social: Empowers farmers with scientific knowledge
+- Economic: Reduces input costs and increases yield
+- Environmental: Promotes sustainable farming and reduces chemical overuse
+- Long-term: Enhances food security and rural development
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+- NABARD Report 2022
+- FAO studies on ICT in agriculture
+- Indian Meteorological Department APIs
+- Research papers on AI in agriculture from ICAR and IITs
