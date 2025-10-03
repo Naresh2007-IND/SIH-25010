@@ -50,7 +50,9 @@ We propose a smart, AI-driven mobile application that delivers personalized crop
 - Multilingual NLP for chatbot and voice interface
 - User-friendly UI/UX design tailored for rural users
 - Prototype includes flowcharts, mock screens, and a working demo
-  --                                                +-------------------+
+  --
+
+   --                               +-------------------+
                                     |     Farmers       |
                                     | (Mobile Devices)  |
                                     +--------+----------+
