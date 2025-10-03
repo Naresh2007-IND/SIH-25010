@@ -51,7 +51,8 @@ We propose a smart, AI-driven mobile application that delivers personalized crop
 - User-friendly UI/UX design tailored for rural users
 - Prototype includes flowcharts, mock screens, and a working demo
   --
-![Uploading ChatGPT Image Oct 3, 2025, 01_56_46 PM.png…]()
+
+![Uploading img png.png…]()
 
 
   
