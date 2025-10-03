@@ -50,9 +50,8 @@ We propose a smart, AI-driven mobile application that delivers personalized crop
 - Multilingual NLP for chatbot and voice interface
 - User-friendly UI/UX design tailored for rural users
 - Prototype includes flowcharts, mock screens, and a working demo
-  --
+<img width="1024" height="1536" alt="sih" src="https://github.com/user-attachments/assets/036c71f8-d5dd-4287-861a-622a3d0a4c4f" />
 
-![Uploading img png.png…]()
 
 
   
