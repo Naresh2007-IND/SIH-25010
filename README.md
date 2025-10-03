@@ -43,7 +43,7 @@ Agriculture, FoodTech & Rural Development
 ## Proposed Solution
 We propose a smart, AI-driven mobile application that delivers personalized crop advisory services in regional languages. The app will integrate soil data, weather forecasts, and crop history to recommend optimal farming practices. It will include image-based pest detection, voice support, and market price updates. The solution is designed to be intuitive and accessible for farmers with low digital literacy.
 
-Technical Approach
+##Technical Approach
 - Technologies: Python, TensorFlow, Android Studio, Firebase, OpenCV
 - AI models for pest detection and crop recommendation
 - Integration with weather APIs and soil databases
