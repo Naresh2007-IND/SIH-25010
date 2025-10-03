@@ -50,8 +50,62 @@ We propose a smart, AI-driven mobile application that delivers personalized crop
 - Multilingual NLP for chatbot and voice interface
 - User-friendly UI/UX design tailored for rural users
 - Prototype includes flowcharts, mock screens, and a working demo
-- 
-## Feasibility and Viability
+  --                                                +-------------------+
+                                    |     Farmers       |
+                                    | (Mobile Devices)  |
+                                    +--------+----------+
+                                             |
+                                             v
++------------------+       +-----------------------------+
+| Mobile App (UI)  |<----->|  Mobile App Backend API     |
+| - Regional UI    |       |  - Auth, Users, Crop Logs   |
+| - Voice Interface|       |  - Data Sync                |
+| - Image Upload   |       +-------------+---------------+
++------------------+                     |
+                                         |
+                                         v
+                    +-----------------------------+
+                    |       Application Server     |
+                    |  - Business Logic Layer      |
+                    |  - Recommendation Engine     |
+                    +-------------+---------------+
+                                  |
+       +--------------------------+----------------------------+
+       |                           |                            |
+       v                           v                            v
++-------------+        +------------------------+      +------------------+
+| Weather API |        |  Soil Data Service     |      | Market Price API |
+| (3rd Party) |        | (Govt/3rd Party APIs)  |      | (Govt/Local DBs) |
++-------------+        +------------------------+      +------------------+
+--                                |
+                                  |    
+--                                |
+                                  v
+                    +-----------------------------+
+                    |     AI/ML Services Layer     |
+                    | - Pest Detection (Image AI)  |
+                    | - Crop Recommendation Models |
+                    | - NLP/Voice Processing       |
+                    +-------------+----------------+
+                                  |
+                                  v
+                    +-----------------------------+
+                    |   Data Storage (Cloud DB)    |
+                    | - Crop Data, Images, Users   |
+                    | - Soil/Weather History       |
+                    +-----------------------------+
+--                                |
+                                  v
+                                   
+--                   +-----------------------------+
+                    |      Admin Dashboard         |
+                    | - Monitor Recommendations    |
+                    | - Model Feedback Loop        |
+                    | - Data Annotation (Pests)    |
+                    +-----------------------------+
+
+  
+ ## Feasibility and Viability
 - Feasible with current mobile penetration and government support
 - Challenges: data accuracy, user adoption, connectivity in remote areas
 - Mitigation: offline features, community training, partnerships with local NGOs
